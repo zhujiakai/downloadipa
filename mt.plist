@@ -20,10 +20,10 @@
    <dict>  
     <key>bundle-identifier</key>  
     <!-- BundleID，就是新建app时的包名 -->  
-    <string>www.dk.dwc</string>  
+    <string>com.sheridwc.mtchinacasion</string>  
     <key>bundle-version</key>  
     <!-- 版本号 -->  
-    <string>1.0.1</string>  
+    <string>1.0.8</string>  
     <key>kind</key>  
     <string>software</string>  
     <key>title</key>  
